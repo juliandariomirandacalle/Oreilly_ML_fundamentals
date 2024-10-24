@@ -1,5 +1,5 @@
 # Machine Learning Fundamentals
-This reposiory is the code implementation of the practical sessions of the [Machine Learning fundamentals' Python-based course](https://www.oreilly.com/videos/machine-learning-fundamentals/0636920927884/) by [Julián Miranda](https://github.com/juliandariomirandacalle/). All algorithms are described in the notebooks included in the content and developed in Python.
+This reposiory is the code implementation of the practical sessions of the [Machine Learning fundamentals' O'Reilly Python-based course](https://www.oreilly.com/videos/machine-learning-fundamentals/0636920927884/) by [Julián Miranda](https://github.com/juliandariomirandacalle/). All algorithms are described in the notebooks included in the content and developed in Python.
 
 # Repository Content
 The content of the repository is distributed as follows:
