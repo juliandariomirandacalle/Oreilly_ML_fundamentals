@@ -6,9 +6,9 @@ The content of the repository is distributed as follows:
 
 ```
 ├───Module 4
-│   └───Video11_SL_Python
-│       ├───data_files
-│       └───Video11_SL_Python.ipynb
+    └───Video11_SL_Python
+        ├───data_files
+        └───Video11_SL_Python.ipynb
 └───Module 5
     └───Video4_UL_Python
         ├───data_files
